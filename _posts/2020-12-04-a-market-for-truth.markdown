@@ -29,7 +29,7 @@ _**The KOI token is the core of this network, and acts as an incentive system to
 
 3. Once <b>participants</b> have earned KOI, they can also stake them on web pages to vote as to their validity (*either for, or against)
 
-4. <b>KOI</b> earn a variable interest rate while staked
+4. <b>KOI</b> earn a variable interest rate while staked (Up to 10% / month!)
 
 5. <b>Participants</b> can also enter a <b>verdict</b>, proposing a "once-and-for-all" factual resolution of any debate
 

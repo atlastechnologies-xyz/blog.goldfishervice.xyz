@@ -54,3 +54,5 @@ The purpose of stories is to pass on our legacy, and ensure our cultural heritag
 The beta is coming soon. Click the link below to sign up for our early access list, and you'll get to start earning KOI first!
 
 <h1><a href="https://xyz.us2.list-manage.com/subscribe?u=9842d27bd152b5314774b184c&id=0d4d6aff75" class="cta_button">Join the Beta Here</a></h1>
+
+*NOTE: The header photo of this article is borrowed from <a href="https://xkcd.com/">xkcd.com</a> which is one of the top web comics out there. I highly encourage everyone to check it out. He predicted KOI years before we did!*

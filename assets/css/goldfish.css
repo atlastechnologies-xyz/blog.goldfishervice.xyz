@@ -93,3 +93,7 @@ p img {
     min-width: 50%;
     margin: auto;
 }
+
+small.ml-3 {
+    display: none;
+}
